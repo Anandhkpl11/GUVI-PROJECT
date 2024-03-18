@@ -11,6 +11,8 @@
 		
 		<classes>
 			 <class name="TestCase.Tc_002Login"/>
+			 <class name="Tc_003AllMenu.java"/>
+			 <class name="Tc_004Bottamlink.java"/>
 		</classes>		
 		
 	</test>
